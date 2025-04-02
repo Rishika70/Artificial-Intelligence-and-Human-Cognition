@@ -1,7 +1,7 @@
 # 🧠 AI for Understanding Human Cognition  
 *Exploring neural representations of physics using quantum-inspired AI*  
 
-![Brain Simulation](https://your-image-url.com)  
+![Brain Simulation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1jZWh5dDUyYnloZmdyeHNwZTFvajg4YW1wcmNqZmFkNzl0N2t1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lJ8ywG1ncm9FXW/giphy.gif)  
 
 ## 🚀 Overview   
   
