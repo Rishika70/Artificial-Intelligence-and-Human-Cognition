@@ -6,11 +6,6 @@
 
 ![Brain Simulation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1jZWh5dDUyYnloZmdyeHNwZTFvajg4YW1wcmNqZmFkNzl0N2t1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lJ8ywG1ncm9FXW/giphy.gif)  
 
-# 🧠 Post-Quantum Cognition AI  
-*A Quantum-Inspired Model for Understanding Human Intelligence*
-
----
-
 ## 🌌 Overview  
 This project explores a unique theory that connects how the **human brain thinks** with the **laws of the universe**, using ideas from **quantum mechanics, neuroscience, and artificial intelligence**.
 
